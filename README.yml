@@ -1,1 +1,2503 @@
 
+<!doctype html>
+<html lang="th" class="light-style layout-navbar-fixed layout-wide template-main" dir="ltr" data-theme="theme-default"
+    data-assets-path="/" data-template="front-pages" data-style="light">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+    <meta name="description" content="สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด ย่อว่า สำนักงาน ป.ป.ส.  ซึ่งเป็น หน่วยงานหลักในการประสานความร่วมมือการป้องกัน ปราบปราม และแก้ไขปัญหายาเสพติดในประเทศและระดับสากล เพื่อเสริมสร้างความปลอดภัยต่อสังคมและมวลมนุษยชาติ">
+    <meta name="keywords" content="ป.ป.ส.,ONCB">
+    <title>สำนักงาน ป.ป.ส. กระทรวงยุติธรรม</title>
+
+    
+    <!-- Favicon -->
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+<!-- Fonts
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@100;200;300;400;500;600;700&family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&display=swap"
+    rel="stylesheet"> -->
+
+<link rel="stylesheet" href="/assets/fonts/ibm-plex/ibm-plex-sans-thai.css">
+<link rel="stylesheet" type="text/css" href="/vendor/fonts/tabler-icons.css?v=3.19.0.2">
+
+<!-- Core CSS -->
+<link rel="stylesheet" href="/vendor/css/core.css?v=20241029" class="template-customizer-core-css">
+<link rel="stylesheet" href="/vendor/css/theme-default.css?v=20241029"
+    class="template-customizer-theme-css">
+
+<script>
+    var base_url = "/";
+    var host_url = "https://www.oncb.go.th/";
+</script>
+
+<!-- Helpers -->
+<script src="/vendor/js/helpers.js?v=20241123"></script>
+<!--! Template customizer & Theme config files MUST be included after core stylesheets and helpers.js in the <head> section -->
+
+<!--? Template customizer: To hide customizer set displayCustomizer value false in config.js.  -->
+<script src="/vendor/js/template-customizer.js?v=20241117"></script>
+
+<!--? Config:  Mandatory theme config file contain global vars & default theme options, Set your preferred theme option in this file.  -->
+<script src="/js/home/theme-config.js?v=20241117"></script>
+
+<!-- Vendors JS -->
+<script src="/assets/swiper/swiper-bundle.min.js?v=11.1.14"></script>
+
+<script src="/dist/js/home/helpers.js?v=20250224_1"></script>
+
+<!-- Vendors CSS -->
+<link rel="stylesheet" type="text/css" href="/libs/select2/css/select2.min.css">
+<link rel="stylesheet" type="text/css" href="/assets/swiper/swiper-bundle.min.css?v=11.1.14">
+<link rel="stylesheet" type="text/css" href="/vendor/libs/node-waves/node-waves.css?v=0.7.6">
+
+<!-- Custom CSS -->
+<link rel="stylesheet" type="text/css" href="/dist/css/bootstrap-extended.css?v=20241130">
+<link rel="stylesheet" type="text/css" href="/dist/css/select2.css?v=20241130">
+
+<link rel="stylesheet" type="text/css" href="/dist/css/home/ckeditor5-content.css?v=20241226">
+<link rel="stylesheet" type="text/css" href="/dist/css/home/common.css?v=20241226">
+<link rel="stylesheet" type="text/css" href="/dist/css/home/main.css?v=20250605">
+
+<script src="/assets/jquery/dist/jquery.min.js?v=3.7.1"></script>
+<script src="/libs/select2/js/select2.min.js?v=4.1.0-rc.0"></script>
+<script src="/libs/select2/js/i18n/th.js?v=4.1.0-rc.0"></script>
+<script src="/vendor/libs/popper/popper.js"></script>
+<script src="/vendor/js/bootstrap.js?v=5.3.3"></script>
+
+<link rel="stylesheet" type="text/css" href="/libs/cookie-consent/dist/cookieconsent.css?v=20250123">
+<link rel="stylesheet" type="text/css" href="/libs/cookie-consent/custom.css?v=20250123">
+
+    
+<link rel="stylesheet" type="text/css" href="/dist/css/home/landing.css?v=20250205">
+
+        <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-41J577G37P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', "G-41J577G37P");
+    </script>
+    
+    <style>.link-button-service {  }.link-button-service:hover {  }</style><style>.link-button-information-systems { font-weight: 500 !important; line-height: 1.4 !important; font-size: .9.9rem !important; color: #666 !important; background: linear-gradient(0deg, #D8E3FF 0%, #FFF 100%) !important; outline: 1.5px solid #013B93 transparent !important; outline-offset: -5px !important; }.link-button-information-systems:hover { color: #013B93 !important; background: linear-gradient(180deg, #D8E3FF 0%, #D8E3FF 100%) !important; outline: 1.5px solid #013B93 !important; outline-offset: -5px !important; }</style><style>.link-button-internal-offices { color: #fff !important; font-weight: 500 !important; line-height: normal !important; font-size: 1.2rem !important; background: linear-gradient(0deg, #0B51AB 0%, #93E2FF 100%) !important; }.link-button-internal-offices:hover { color: #ffe300 !important; background: linear-gradient(0deg, #0B51AB 0%, #339ADD 100%) !important; outline: 1.5px solid #ffe300 !important; outline-offset: -5px !important; }</style></head>
+
+<body>
+    
+    <nav class="layout-navbar py-0">
+                <!-- Navbar Herder: Start -->
+        <div class="navbar navbar-dark navbar-top">
+    <div class="container px-3 d-flex flex-nowrap justify-content-between">
+        <div class="oncb-header">
+            <img src="/img/logo/oncb-th.svg" alt="สำนักงาน ป.ป.ส. กระทรวงยุติธรรม"
+                class="oncb-logo">
+            <div>
+                                <div class="main-title">สำนักงาน ป.ป.ส. กระทรวงยุติธรรม</div>
+                                <div class="sub-title text-truncate-1">สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด</div>
+                                <div class="additional-title text-truncate-1">Office of the Narcotics Control Board : Ministry of Justice</div>
+                            </div>
+        </div>
+
+        <button class="navbar-toggler d-lg-none pe-0" type="button" data-bs-toggle="offcanvas"
+            data-bs-target="#menu-humburger" aria-controls="menu-humburger" aria-label="humburger">
+            <span class="ti ti-menu-2 align-middle fw-medium"></span>
+        </button>
+
+        <div class="d-flex d-lg-flex align-items-center gap-3 navbar-icons">
+            <div class="icon-circle icon-vpn rounded-pill" data-bs-toggle="tooltip"
+                data-bs-placement="bottom" data-bs-title="VPN" data-bs-custom-class="tooltip-light tooltip-navbar">
+                <a href="https://drive.oncb.go.th/share.cgi?ssid=0DIIe3E#0DIIe3E" title="VPN" target="_blank">
+                    <img src="/img/icons/vpn.png" alt="VPN">
+                </a>
+            </div>
+
+            <div class="icon-circle icon-self-service rounded-pill" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Self service" data-bs-custom-class="tooltip-light tooltip-navbar">
+                <a href="https://self.oncb.go.th" title="Self service" target="_blank">
+                    <img src="/img/icons/padlock.png" alt="Self service">
+                </a>
+            </div>
+
+            <div class="icon-circle icon-email rounded-pill">
+                <a href="https://webmail.oncb.go.th" title="Webmail" target="_blank">
+                    <span class="ti ti-mail-filled"></span>
+                </a>
+            </div>
+
+            <div class="d-flex align-items-center" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="ภาษาไทย"
+    data-bs-custom-class="tooltip-light tooltip-navbar" data-bs-html="true">
+    <img src="/img/icons/th.svg" data-lang="th"
+        class="icon-lang active" alt="ภาษาไทย">
+</div>
+<div class="d-flex align-items-center" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="English"
+    data-bs-custom-class="tooltip-light tooltip-navbar" data-bs-html="true">
+    <img src="/img/icons/en.svg" data-lang="en"
+        class="icon-lang " alt="English">
+</div>
+             <div class="d-flex align-items-center icon-intranet ms-4">
+                <a href="https://intranet.oncb.go.th" title="ONCB Intranet" target="_blank">
+                    <span class="ti ti-world ti-lg me-2"></span>
+                    Intranet
+                </a>
+             </div>
+        </div>
+    </div>
+</div>        <!-- / Navbar Herder: End -->
+        
+        <!-- Navbar Menu: Start -->
+        <div class="navbar navbar-expand-md navbar-bottom d-none d-lg-flex">
+    <div class="container px-3">
+        <!-- Menu wrapper: Start -->
+        <div class="collapse navbar-collapse landing-nav-menu" id="navbar-supported-content">
+            <button class="navbar-toggler border-0 text-heading position-absolute end-0 top-0 scaleX-n1-rtl"
+                type="button" data-bs-toggle="collapse" data-bs-target="#navbar-supported-content"
+                aria-controls="navbar-supported-content" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="ti ti-x ti-lg"></span>
+            </button>
+
+                        <ul class="navbar-nav"><li class="nav-item"><a class="nav-link  active" href="/">หน้าแรก</a></li><li class="nav-item"><a class="nav-link " href="/about/194">เกี่ยวกับหน่วยงาน</a></li><li class="nav-item"><a class="nav-link " href="/executive-board">คณะกรรมการ ป.ป.ส.</a></li><li class="nav-item"><a class="nav-link " href="/internal-offices">หน่วยงานในสังกัด</a></li><li class="nav-item"><a class="nav-link " href="/oncb-services/56">ป.ป.ส. บริการ</a></li><li class="nav-item"><a class="nav-link " href="/reports-kpis">รายงาน/ผลการดำเนินการ</a></li></ul>                    </div>
+        <div class="landing-menu-overlay d-lg-none"></div>
+        <!-- Menu wrapper: End -->
+    </div>
+</div>
+
+<!-- Offcanvas Menu (Sliding from Left on Mobile) -->
+<div class="offcanvas offcanvas-start d-lg-none menu-humburger" tabindex="-1" id="menu-humburger"
+    aria-labelledby="menu-humburger-label">
+    <div class="offcanvas-header">
+        <div class="offcanvas-title h5" id="menu-humburger-label">เมนู</div>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div id="menu-humburger-body" class="offcanvas-body d-flex flex-column">
+        <div class="offcanvas-footer mt-auto">
+            <hr>
+            <div class="navbar-icons d-flex gap-3"></div>
+        </div>
+    </div>
+</div>        <!-- / Navbar Menu: End -->
+    </nav>
+
+    <!-- Sections:Start -->
+    <div class="container-fluid px-0 content-wrapper" data-bs-spy="scroll">
+        
+
+<!-- Top Banner -->
+<!-- Swiper -->
+<link rel="stylesheet" type="text/css"
+    href="/dist/css/home/components/banner-slide.css?v=20241126">
+
+<div id="banner-top-banner" class="swiper banner-slide section-mb">
+    <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                        <a href="/banner/50" target="_self" title="ถวายอาลัยพระองค์ภาฯ">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/6a2f6d1596bc9arFa7SVgQU.webp" alt="ถวายอาลัยพระองค์ภาฯ" >
+            </a>
+                                </div>
+                <div class="swiper-slide">
+                        <a href="https://www.oncb.go.th/page/drug-tip" target="_blank" title="แจ้งเบาะแสยาเสพติด">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/6a4cca162b8d37kmOGJ6MfT.webp" alt="แจ้งเบาะแสยาเสพติด" loading="lazy" >
+            </a>
+                                    <div class="swiper-lazy-preloader"></div>
+                    </div>
+                <div class="swiper-slide">
+                        <a href="https://www.oncb.go.th/page/digital-contact" target="_blank" title="ช่องทางอิเล็กทรอนิกส์สำหรับติดต่อสำนักงาน ป.ป.ส.">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/69faea233e533GSHLkQod2O.webp" alt="ช่องทางอิเล็กทรอนิกส์สำหรับติดต่อสำนักงาน ป.ป.ส." loading="lazy" >
+            </a>
+                                    <div class="swiper-lazy-preloader"></div>
+                    </div>
+                <div class="swiper-slide">
+                        <a href="https://www.oncb.go.th/news/23765" target="_blank" title="Hero of the truth ร่วมหยุดคอร์รัปชั่น">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/6932d8849ce48qKRP4MCpx6.webp" alt="Hero of the truth ร่วมหยุดคอร์รัปชั่น" loading="lazy" >
+            </a>
+                                    <div class="swiper-lazy-preloader"></div>
+                    </div>
+                <div class="swiper-slide">
+                        <a href="https://www.oncb.go.th/page/request-remuneration-narcotics-control-operations" target="_blank" title="การขอรับเงินค่าตอบแทนฯ การปฏิบัติงานยาเสพติด">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/68e379ce2b594JEsMqsy7S5.webp" alt="การขอรับเงินค่าตอบแทนฯ การปฏิบัติงานยาเสพติด" loading="lazy" >
+            </a>
+                                    <div class="swiper-lazy-preloader"></div>
+                    </div>
+                <div class="swiper-slide">
+                        <a href="/pdfjs/web/viewer.html?file=/storage/file/banner/th/685693f52e028mFGGq.pdf&mode=preview" target="_blank" title="ประกาศกระทรวง">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/6836c7c3e49c0KsOO0Pz7Ab.webp" alt="ประกาศกระทรวง" loading="lazy" >
+            </a>
+                                    <div class="swiper-lazy-preloader"></div>
+                    </div>
+                <div class="swiper-slide">
+                        <a href="https://www.oncb.go.th/news/21759" target="_blank" title="ศูนย์รวมข่าวสาร (งานราชการ) และการสรรหาและเลือกสรรบุคคลเข้ารับราชการ : การขอรับทุนรัฐบาล">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/683567ffc64c9O6KG8CIMqo.webp" alt="ศูนย์รวมข่าวสาร (งานราชการ) และการสรรหาและเลือกสรรบุคคลเข้ารับราชการ : การขอรับทุนรัฐบาล" loading="lazy" >
+            </a>
+                                    <div class="swiper-lazy-preloader"></div>
+                    </div>
+                <div class="swiper-slide">
+                        <a href="https://www.oncb.go.th/page/most-wanted" target="_blank" title="ผลการดำเนินการภายใต้โครงการประกาศสืบจับผู้ต้องหาคดียาเสพติดรายสำคัญตามหมายจับ">
+                <img src="https://s3.oncb.go.th/oncb-main/web/banner/image/1920/67f513799f1caCT7lijJA8T.webp" alt="ผลการดำเนินการภายใต้โครงการประกาศสืบจับผู้ต้องหาคดียาเสพติดรายสำคัญตามหมายจับ" loading="lazy" >
+            </a>
+                                    <div class="swiper-lazy-preloader"></div>
+                    </div>
+            </div>
+    <div class="swiper-button-next mx-lg-2 swiper-slide-btn-next-top-banner">
+        <span class="ti ti-arrow-right ti-md"></span>
+    </div>
+    <div class="swiper-button-prev mx-lg-2 swiper-slide-btn-prev-top-banner">
+        <span class="ti ti-arrow-left ti-md"></span>
+    </div>
+    <div class="swiper-pagination"></div>
+</div>
+
+<script>
+    new Swiper("#banner-top-banner", {
+        slidesPerView: 1,
+        spaceBetween: 0,
+        lazy: true,
+        loop: true,
+        autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+            pauseOnMouseEnter: true, // Add this line to stop autoplay on mouse enter
+        },
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        navigation: {
+            nextEl: ".swiper-slide-btn-next-top-banner",
+            prevEl: ".swiper-slide-btn-prev-top-banner",
+        },
+        a11y: {
+            enabled: false, // ปิดการใช้งาน ARIA ที่สร้างอัตโนมัติ (ถ้ามี)
+        },
+    });
+</script>
+<div class="alternate-bg">
+    <!-- บริการ -->
+    <section class="section-mb landing-service">
+    <div class="container">
+        <div class="row">
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://1386.oncb.go.th"  target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="แจ้งเบาะแสยาเสพติด" data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/676009f36f10dFQQTHLpxm7.webp" alt="">                            <div class="h6 mt-3 mb-0">แจ้งเบาะแสยาเสพติด</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://www.oncb.go.th/oncb-services"  data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="ข้อมูลบริการ ป.ป.ส." data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/676cf595b196dNDX0K7Eric.webp" alt="">                            <div class="h6 mt-3 mb-0">ข้อมูลบริการ ป.ป.ส.</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://neos.oncb.go.th/OS/login"  target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="ระบบข้อมูล<br/>เจ้าพนักงาน ป.ป.ส. (NEOS)" data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/674d42da08a01ezfLdbWuBk.webp" alt="">                            <div class="h6 mt-3 mb-0">ระบบข้อมูล<br/>เจ้าพนักงาน ป.ป.ส. (NEOS)</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://www.oncb.go.th/page/reward"  target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title=" เงินสินบนรางวัล/<br/>ค่าตอบแทน/เงินช่วยเหลือ" data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67501a8d5d07f0OjrJr0vEk.webp" alt="">                            <div class="h6 mt-3 mb-0"> เงินสินบนรางวัล/<br/>ค่าตอบแทน/เงินช่วยเหลือ</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://petition.oncb.go.th"  target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="ร้องเรียนการทุจริต<br/>และประพฤติมิชอบ" data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6a8528386244fy0JDAAiXnj.webp" alt="">                            <div class="h6 mt-3 mb-0">ร้องเรียนการทุจริต<br/>และประพฤติมิชอบ</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://www.oncb.go.th/media/knowledge"  data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สื่อประชาสัมพันธ์" data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67d7e43574f77bjGwdCsPK7.webp" alt="">                            <div class="h6 mt-3 mb-0">สื่อประชาสัมพันธ์</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://www.oncb.go.th/current-law"  data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กฎหมายและระเบียบ<br/>เกี่ยวกับยาเสพติด" data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67300d1df15d7g08mdZCsil.webp" alt="">                            <div class="h6 mt-3 mb-0">กฎหมายและระเบียบ<br/>เกี่ยวกับยาเสพติด</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                        <div class="col-4 col-lg-3 col-md-4 col-sm-6">
+                <a href="https://job.oncb.go.th"  target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สมัครงานกับ ป.ป.ส." data-bs-html="true">
+                    <div class="card card-hover h-100 text-center link-button-service">
+                        <div class="card-body">
+                            <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67300d28b2ff6emPfil7yPr.webp" alt="">                            <div class="h6 mt-3 mb-0">สมัครงานกับ ป.ป.ส.</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    </div>
+    </div>
+</section>
+
+    <!-- ข่าวเด่น -->
+    <section class="section-mb landing-news overflow-hidden">
+    <div class="container px-3">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">ข่าวเด่น</h1>
+                        <a href="/news?group=top-news" class="btn btn-default">
+                ดูทั้งหมด<span class="ti ti-arrow-right ms-2"></span>
+            </a>
+                    </div>
+                <div id="news-items-top-news" class="swiper news-items pt-3">
+            <div class="swiper-wrapper">
+                                <div class="swiper-slide news-item">
+                    <a href="/news/26150" target="_self">
+                        <div class="news-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/medium/6a967779581deVkuqz7dfU8.webp" alt="" onerror="this.onerror=null;this.src='/img/no-image/medium/default.webp'">
+                        </div>
+                        <h2 class="news-title text-truncate-2">ป.ป.ส. ร่วมแสดงความยินดี ครบรอบ 78 ปี กองบังคับการปราบปราม </h2>
+                    </a>
+                    <div class="d-flex justify-content-between flex-wrap row-gap-2">
+                        <div class="news-date">1 ก.ย. 2569 13:57 น.</div>
+                                                <div class="news-view">
+                            <span class="ti ti-eye ti-mt me-1"></span>
+                            <span>66 ครั้ง</span>
+                        </div>
+                                            </div>
+                    
+                </div>
+                                <div class="swiper-slide news-item">
+                    <a href="/news/26143" target="_self">
+                        <div class="news-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/medium/6a9576f39d28elW1wtpuNqD.webp" alt="" onerror="this.onerror=null;this.src='/img/no-image/medium/default.webp'">
+                        </div>
+                        <h2 class="news-title text-truncate-2">เลขาธิการ ป.ป.ส. ลงพื้นที่ที่ติดตามงานแก้ไขบำบัดฟื้นฟูผู้ติดยาเสพติดในชุมชนของหมู่บ้านกองทุนแม่ของแผ่นดิน จังหวัดระยอง</h2>
+                    </a>
+                    <div class="d-flex justify-content-between flex-wrap row-gap-2">
+                        <div class="news-date">31 ส.ค. 2569 19:43 น.</div>
+                                                <div class="news-view">
+                            <span class="ti ti-eye ti-mt me-1"></span>
+                            <span>26 ครั้ง</span>
+                        </div>
+                                            </div>
+                    
+                </div>
+                                <div class="swiper-slide news-item">
+                    <a href="/news/26113" target="_self">
+                        <div class="news-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/medium/6a9382f71864fwAWnGJqOrM.webp" alt="" onerror="this.onerror=null;this.src='/img/no-image/medium/default.webp'">
+                        </div>
+                        <h2 class="news-title text-truncate-2">⚖️ รมว.ยุติธรรม ลงพื้นที่สงขลา “รับฟังปัญหา–รับรู้ความต้องการ” เดินหน้าขับเคลื่อนยุติธรรมถึงประชาชน</h2>
+                    </a>
+                    <div class="d-flex justify-content-between flex-wrap row-gap-2">
+                        <div class="news-date">30 ส.ค. 2569 08:09 น.</div>
+                                                <div class="news-view">
+                            <span class="ti ti-eye ti-mt me-1"></span>
+                            <span>64 ครั้ง</span>
+                        </div>
+                                            </div>
+                    
+                </div>
+                            </div>
+            <button type="button" aria-label="swiper-btn-prev"
+                class="btn btn-default swiper-btn-prev swiper-btn-prev-top-news">
+                <span class="ti ti-chevron-left"></span>
+            </button>
+            <button type="button" aria-label="swiper-btn-next"
+                class="btn btn-default swiper-btn-next swiper-btn-next-top-news">
+                <span class="ti ti-chevron-right"></span>
+            </button>
+        </div>
+            </div>
+</section>
+<script>
+    new Swiper("#news-items-top-news", {
+        slidesPerView: "auto",
+        spaceBetween: 15,
+        centeredSlides: false, // สไลด์ไม่จัดกึ่งกลาง
+        a11y: {
+            enabled: false, // ปิดการใช้งาน ARIA ที่สร้างอัตโนมัติ (ถ้ามี)
+        },
+        navigation: {
+            nextEl: '.swiper-btn-next-top-news',
+            prevEl: '.swiper-btn-prev-top-news',
+        },
+        breakpoints: swiperBreakpointNewsSlide(),
+    });
+</script>
+    <!-- ข่าวจัดซื้อจัดจ้าง -->
+    <section class="section-mb landing-news-tabs-list news-tabs">
+    <div class="container px-3">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">ข่าวจัดซื้อ/จัดจ้าง</h1>
+            <a href="/procurement" class="btn btn-default">
+                ดูทั้งหมด<span class="ti ti-arrow-right ms-2"></span>
+            </a>
+        </div>
+        <div class="nav-align-top pt-3">
+            <ul id="navs-tab-procurement" class="nav nav-pills nav-fill mb-4 gap-2 row-gap-3"><li class="nav-item" role="presentation"><button type="button" class="nav-link active" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-procurement-procurement-news" aria-controls="navs-tab-procurement-procurement-news" aria-selected="true">ข่าวจัดซื้อ/จัดจ้าง</button></li><li class="nav-item" role="presentation"><button type="button" class="nav-link" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-procurement-plan-publication-notices" aria-controls="navs-tab-procurement-plan-publication-notices" aria-selected="true">ประกาศเผยแพร่แผน</button></li><li class="nav-item" role="presentation"><button type="button" class="nav-link" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-procurement-bid-winner-announcements" aria-controls="navs-tab-procurement-bid-winner-announcements" aria-selected="true">ประกาศผู้ชนะการเสนอราคา</button></li><li class="nav-item" role="presentation"><button type="button" class="nav-link" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-procurement-contract-highlights" aria-controls="navs-tab-procurement-contract-highlights" aria-selected="true">ประกาศข้อมูลสาระสำคัญในสัญญา</button></li></ul>            <div class="tab-content mt-4">
+                                <div class="tab-pane fade active show" id="navs-tab-procurement-procurement-news" role="tabpanel">
+                    
+                                        <div class="list-group list-group-flush list-content">
+            <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6160" target="_self">ประกวดราคาจ้างด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding) การจ้างเหมาบริการพนักงานขับรถยนต์ สำนักงาน ป.ป.ส. ดินแดง และสำนักงาน ป.ป.ส. ทุ่งสองห้อง
+ประจำปีงบประมาณ พ.ศ. ๒๕๗๐</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">2 ก.ย. 2569 14:10 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>1 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6156" target="_self">สพบ.ประกวดราคาจ้างเหมาบริการดูแลรักษาต้นไม้ สวนไม้ประดับ และสนามหญ้า ภายในบริเวณวิทยาลัยป้องกันและปราบปรามยาเสพติดระหว่างประเทศ ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 18:01 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>วปส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>26 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6153" target="_self">สำนักงาน ปปส. ภาค 1 ประกาศประกวดราคาจ้างเหมาบริการทำความสะอาดอาคาร สำนักงาน ปปส. ภาค 1 ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 15:41 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.1</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>28 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6162" target="_self">ปปส.ภ.6 ประกาศประกวดราคาจ้างเหมาบริการทำความสะอาดอาคาร สำนักงาน ปปส. ภาค 6 ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 14:22 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.6</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>2 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6161" target="_self">ปปส.ภ.6 ประกาศประกวดราคาจ้างเหมาบริการดูแลรักษาต้นไม้ สวนไม้ประดับและสนามหญ้า ภายในบริเวณสำนักงาน ปปส. ภาค 6 ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 14:12 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.6</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>4 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6157" target="_self">ประกาศประกวดราคาจ้างบำรุงรักษาและซ่อมแซมแก้ไขโปรแกรมลิขสิทธิ์ระบบสารสนเทศภูมิศาสตร์ยาเสพติด (GIS) ประจำปีงบประมาณ พ.ศ. ๒๕๗๐ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding) </a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 11:42 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>1 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                                    </div>
+                                <div class="tab-pane fade " id="navs-tab-procurement-plan-publication-notices" role="tabpanel">
+                    
+                                        <div class="list-group list-group-flush list-content">
+            <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6155" target="_self">ประกาศประกวดราคาจ้างโครงการจ้างเหมาบริการบำรุงรักษาระบบโทรศัพท์รับแจ้งเรื่องร้องเรียน 1386 ประจำปีงบประมาณ พ.ศ. 2570 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 16:36 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>18 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/procurement/th/6a9106513579aXjYq9.pdf&mode=preview" target="_blank">ประกาศเผยแพร่แผนการจัดจ้างเหมาบริการพนักงานขับรถยนต์ สำนักงานป้องกันและปราบปรามยาเสพติด ภาค 1 ประจำปีงบประมาณ พ.ศ. 2570</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">28 ส.ค. 2569 10:44 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.1</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>14 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6131" target="_self">เผยแพร่แผนการจัดซื้อจัดจ้าง ประจำปีงบประมาณ พ.ศ. 2570 (จ้างเหมาบริการรักษาความปลอดภัยของ สำนักงาน ปปส. ภาค 4)</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">24 ส.ค. 2569 16:58 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.4</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>19 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6130" target="_self">ประกาศ สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด เรื่อง เผยแพร่แผนการจัดซื้อจัดจ้าง ประจำปีงบประมาณ พ.ศ. 2570</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">24 ส.ค. 2569 16:53 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>19 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/procurement/th/6a883d0892d59w7nud.pdf&mode=preview" target="_blank">สำนักงาน ปปส. ภาค 6 ประกาศเผยแพร่แผนการจัดซื้อจัดจ้าง ประจำปีงบประมาณ พ.ศ. 2570  "จ้างเหมาบริการรักษาความปลอดภัยของสำนักงาน ปปส. ภาค 6 ประจำปีงบประมาณ พ.ศ. 2570"</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">21 ส.ค. 2569 18:53 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.6</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>14 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/procurement/th/6a8827d3f0fa2vPZ1C.pdf&mode=preview" target="_blank">ประกาศเผยแพร่แผนจ้างเหมาบริการรักษาความปลอดภัยของสำนักงาน ปปส. ภาค 5 ประจำปีงบประมาณ พ.ศ. 2570</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">21 ส.ค. 2569 17:12 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.5</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>15 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                                    </div>
+                                <div class="tab-pane fade " id="navs-tab-procurement-bid-winner-announcements" role="tabpanel">
+                    
+                                        <div class="list-group list-group-flush list-content">
+            <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6158" target="_self">ปปส.ภ.4 ประกาศผู้ชนะการเสนอราคา จำนวน 8 รายการ</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">2 ก.ย. 2569 11:56 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.4</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>8 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/procurement/th/6a97b07d657962oU6o.pdf&mode=preview" target="_blank">ประกาศผู้ชนะการเสนอราคา จ้างทำชุดหุ่นจำลอง "พื้นที่ทดลองเพาะปลูกพืชฝิ่นและเห็ดขี้ควาย เพื่อประโยชน์ในการศึกษาวิจัย" โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 23:43 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สพส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>1 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6151" target="_self">ประกาศสำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด เรื่อง ผู้ชนะการเสนอราคา เช่าห้องประชุม สำหรับโครงการประชุมจัดทำแผนปฏิบัติราชการ และการสร้างค่านิยมสู่วัฒนธรรมในการทำงาน ของสำนักงาน ปปส. ภาค ๗ ประจำปีงบประมาณ พ.ศ. 2570 โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">31 ส.ค. 2569 21:59 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>14 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6148" target="_self">ประกาศ สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด  เรือง ประกาศผู้ชนะการเสนอราคา ซื้อเครื่องกระจายสัญญาณโทรศัพท์ของสำนักงาน ปปส. ภาค ๗ </a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">28 ส.ค. 2569 16:58 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>15 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/procurement/th/6a900c5d40d85Prw1q.pdf&mode=preview" target="_blank">ประกาศผู้ชนะผู้เสนอราคา ซื้อวัสดุอุปกรณ์</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">27 ส.ค. 2569 17:06 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>3 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6138" target="_self">ประกาศสำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด เรื่อง ประกาศผู้ชนะการเสนอราคา เช้าห้องประชุม สำหรับโครงการฝึกอบรมหลักสูตร เจ้าหนักงาน ป.ป.ส. ประเภท 4 (หน่วยนอก) รุ่นที่ 7 โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">27 ส.ค. 2569 16:17 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>5 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                                    </div>
+                                <div class="tab-pane fade " id="navs-tab-procurement-contract-highlights" role="tabpanel">
+                    
+                                        <div class="list-group list-group-flush list-content">
+            <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6126" target="_self">ประกาศข้อมูลสาระสำคัญในสัญญาจ้างซ่อมเปลี่ยนอุปกรณ์ระบบกล้องวงจรปิดพร้อมอุปกรณ์ โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">24 ส.ค. 2569 10:54 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>วปส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>9 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6125" target="_self">ประกาศข้อมูลสาระสำคัญในสัญญาซื้อวัสดุไฟฟ้า เพื่อใช้ในราชการของวิทยาลัยป้องกันและปราบปรามยาเสพติด ระหว่างประเทศ โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">24 ส.ค. 2569 10:48 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>วปส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>12 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6124" target="_self">ประกาศข้อมูลสาระสำคัญในสัญญา ซื้อวัสดุการเกษตร เพื่อใช้ในราชการของวิทยาลัยป้องกันและปราบปรามยาเสพติดระหว่างประเทศ โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">24 ส.ค. 2569 10:36 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>วปส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>9 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/procurement/6108" target="_self">ประกาศข้อมูลสาระสำคัญในสัญญา ชื้อวัสดุสำนักงานและวัสดุงานบ้านงานครัว เพื่อใช้ในราชการของวิทยาลัยป้องกันและปราบปรามยาเสพติดระหว่างประเทศ โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">21 ส.ค. 2569 14:55 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>วปส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>15 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/procurement/th/6a713fc23dfd6zlpbt.pdf&mode=preview" target="_blank">ประกาศข้อมูลสาระสำคัญในสัญญา จ้างซ่อมแซมอุปกรณ์ป้องกันระบบไฟฟ้ากระชาก จำนวน 4 รายการ สำนักงาน ป.ป.ส. ดินแดง โดยวิธีเฉพาะเจาะจง</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">4 ส.ค. 2569 08:24 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>41 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-1 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/procurement/th/6a82d7f0a4d58RMdVf.pdf&mode=preview" target="_blank">ประกาศข้อมูลสาระสำคัญในสัญญาจ้างที่ปรึกษาโครงการศึกษาวิจัยและพัฒนาต้นแบบระบบแปลงเอกสารและสืบค้นข้อมูลอัจฉริยะด้วยเทคโนโลยีสารสนเทศ AI</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">22 ก.ค. 2569 16:40 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>7 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+</section>
+    <!-- ข่าวขายทอดตลาด -->
+    <section class="section-mb landing-news overflow-hidden">
+    <div class="container px-3">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">ข่าวขายทอดตลาด</h1>
+                        <a href="/auction" class="btn btn-default">
+                ดูทั้งหมด<span class="ti ti-arrow-right ms-2"></span>
+            </a>
+                    </div>
+                <div id="news-items-auction" class="swiper news-items pt-3">
+            <div class="swiper-wrapper">
+                                <div class="swiper-slide news-item">
+                    <a href="/auction/2466" target="_self">
+                        <div class="news-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/auction/cover/medium/6a8bd0ca6c26dpbWkThgy9R.webp" alt="" onerror="this.onerror=null;this.src='/img/no-image/medium/default.webp'">
+                        </div>
+                        <h2 class="news-title text-truncate-2">สำนักงาน ปปส. ภาค 5 มีความประสงค์จะดำเนินการจำหน่ายพัสดุชำรุด เสื่อมสภาพ และมีอายุการใช้งานครบตามเกณฑ์ขั้นต่ำ โดยวิธีการขายทอดตลาด ด้วยวิธีประมูลด้วยวาจา จำนวน 53 รายการ  </h2>
+                    </a>
+                    <div class="d-flex justify-content-between flex-wrap row-gap-2">
+                        <div class="news-date">20 ส.ค. 2569 11:52 น.</div>
+                                                <div class="news-view">
+                            <span class="ti ti-eye ti-mt me-1"></span>
+                            <span>303 ครั้ง</span>
+                        </div>
+                                            </div>
+                    
+                </div>
+                                <div class="swiper-slide news-item">
+                    <a href="/auction/2467" target="_self">
+                        <div class="news-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/auction/cover/medium/6a8bf2ad86caeBljfaqeg7s.webp" alt="" onerror="this.onerror=null;this.src='/img/no-image/medium/default.webp'">
+                        </div>
+                        <h2 class="news-title text-truncate-2">สำนักงาน ปปส. ภาค 2 มีความประสงค์จะดำเนินการจำหน่ายพัสดุชำรุด เสื่อมสภาพ และมีอายุการใช้งานครบตามเกณฑ์ขั้นต่ำ โดยวิธีการขายทอดตลาด ด้วยวิธีประมูลด้วยวาจา จำนวน 97 รายการ</h2>
+                    </a>
+                    <div class="d-flex justify-content-between flex-wrap row-gap-2">
+                        <div class="news-date">20 ส.ค. 2569 13:55 น.</div>
+                                                <div class="news-view">
+                            <span class="ti ti-eye ti-mt me-1"></span>
+                            <span>371 ครั้ง</span>
+                        </div>
+                                            </div>
+                    
+                </div>
+                                <div class="swiper-slide news-item">
+                    <a href="/auction/2468" target="_self">
+                        <div class="news-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/auction/cover/medium/6a8c099c5f39f453MCaW27x.webp" alt="" onerror="this.onerror=null;this.src='/img/no-image/medium/default.webp'">
+                        </div>
+                        <h2 class="news-title text-truncate-2">สำนักงาน ปปส. ภาค  6 มีความประสงค์จะดำเนินการจำหน่ายพัสดุ โดยวิธีการขายทอดตลาด ด้วยวิธีประมูลด้วยวาจา จำนวน 89 รายการ</h2>
+                    </a>
+                    <div class="d-flex justify-content-between flex-wrap row-gap-2">
+                        <div class="news-date">20 ส.ค. 2569 16:05 น.</div>
+                                                <div class="news-view">
+                            <span class="ti ti-eye ti-mt me-1"></span>
+                            <span>281 ครั้ง</span>
+                        </div>
+                                            </div>
+                    
+                </div>
+                            </div>
+            <button type="button" aria-label="swiper-btn-prev"
+                class="btn btn-default swiper-btn-prev swiper-btn-prev-auction">
+                <span class="ti ti-chevron-left"></span>
+            </button>
+            <button type="button" aria-label="swiper-btn-next"
+                class="btn btn-default swiper-btn-next swiper-btn-next-auction">
+                <span class="ti ti-chevron-right"></span>
+            </button>
+        </div>
+            </div>
+</section>
+<script>
+    new Swiper("#news-items-auction", {
+        slidesPerView: "auto",
+        spaceBetween: 15,
+        centeredSlides: false, // สไลด์ไม่จัดกึ่งกลาง
+        a11y: {
+            enabled: false, // ปิดการใช้งาน ARIA ที่สร้างอัตโนมัติ (ถ้ามี)
+        },
+        navigation: {
+            nextEl: '.swiper-btn-next-auction',
+            prevEl: '.swiper-btn-prev-auction',
+        },
+        breakpoints: swiperBreakpointNewsSlide(),
+    });
+</script>
+    <!-- ข่าวประชาสัมพันธ์ -->
+    <section class="section-mb landing-news-tabs news-tabs">
+    <div class="container px-3">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">ข่าวประชาสัมพันธ์</h1>
+            <a href="/information-news" class="btn btn-default">
+                ดูทั้งหมด<span class="ti ti-arrow-right ms-2"></span>
+            </a>
+        </div>
+        <div class="nav-align-top pt-3">
+            <ul id="navs-tab-information-news" class="nav nav-pills nav-fill mb-4 gap-2 row-gap-3"><li class="nav-item" role="presentation"><button type="button" class="nav-link active" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-information-news-arrest-news" aria-controls="navs-tab-information-news-arrest-news" aria-selected="true">ข่าวจับกุม</button></li><li class="nav-item" role="presentation"><button type="button" class="nav-link" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-information-news-announcement-seizure-attachment" aria-controls="navs-tab-information-news-announcement-seizure-attachment" aria-selected="true">ประกาศแจ้งการยึดหรืออายัดทรัพย์สิน</button></li><li class="nav-item" role="presentation"><button type="button" class="nav-link" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-information-news-job-recruitment-news" aria-controls="navs-tab-information-news-job-recruitment-news" aria-selected="true">ข่าวรับสมัครงาน</button></li><li class="nav-item" role="presentation"><button type="button" class="nav-link" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-information-news-executive-news" aria-controls="navs-tab-information-news-executive-news" aria-selected="true">ข่าวหน่วยงานในสังกัด</button></li><li class="nav-item" role="presentation"><button type="button" class="nav-link" role="tab" data-bs-toggle="pill" data-bs-target="#navs-tab-information-news-other-news" aria-controls="navs-tab-information-news-other-news" aria-selected="true">ข่าวอื่น ๆ</button></li></ul>            <div class="tab-content mt-3">
+                                
+                                                                                
+                <div class="tab-pane fade active show" id="navs-tab-information-news-arrest-news" role="tabpanel">
+                                                            <div class="row gy-6">
+                                                <div class="col-12 col-lg-7">
+                            <div class="news-item">
+                                <a href="/news/26152" target="_self">
+                                    <div class="news-image">
+                                        <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/medium/6a967a19dccc4amNDSUw6UX.webp" alt>
+                                    </div>
+                                    <div class="news-overlay">
+                                        <div class="news-date">1 ก.ย. 2569 13:27 น.</div>
+                                        <div class="news-title">
+                                            ปปส.ภ.2 ลุยสอบข้อเท็จจริง กรณีเจ้าหน้าที่รัฐเกี่ยวข้องกับยาเสพติดในพื้นที่ จ.ฉะเชิงเทรา ตามข้อร้องเรียนผ่านสายด่วน 1386                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-5">
+                            <div class="d-flex flex-column gap-4 news-list">
+                    <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26112&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a923e91a8268XmlGGwBmhx.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26112" target="_self" aria-label="Read more">ป.ป.ส. เดินหน้าขยายผล “1386” ลงพื้นที่เขาพนม จ.กระบี่ ตรวจสอบ 13 เรื่องร้องเรียนยาเสพติด พบผู้กระทำผิดดำเนินคดี 5 ราย</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">29 ส.ค. 2569 09:05 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>24 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26107&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a90f77b0bfe3ucOIENffwg.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26107" target="_self" aria-label="Read more">ปปส.ภ.3 ลุยยึดทรัพย์! บ้านพร้อมที่ดิน 5 ล้าน สืบเนื่องคดียาบ้า 4.14 แสนเม็ด</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">28 ส.ค. 2569 09:49 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.3</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>54 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26044&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a880d509e39dex3yw7Rqn6.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26044" target="_self" aria-label="Read more">กระท่อมห้ามขายตามอำเภอใจ ผิดกฎหมาย
+ป.ป.ส. ย้ำผู้จำหน่ายต้องรู้กฎหมาย ลงพื้นที่ตรวจสอบร้านกระท่อมตามข้อมูลสายด่วน 1386</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">21 ส.ค. 2569 11:33 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>76 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26029&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a857c6148717otS3czjsCj.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26029" target="_self" aria-label="Read more">ปปส.ภ.8 ร่วมกับเจ้าหน้าที่ในพื้นที่ ปิดล้อมตรวจค้นหมู่บ้าน/ชุมชน แพร่ระบาดยาเสพติดพื้นที่ อ.เกาะสมุย จ.สุราษฎร์ธานี จำนวน 10 เป้าหมาย</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">19 ส.ค. 2569 16:48 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.8</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>77 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26011&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a83c37904db9mvMTUAhT8v.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26011" target="_self" aria-label="Read more">ปปส.ภ.2 ลุยตรวจสอบจนท.รัฐ เข้าไปเกี่ยวข้องกับยาเสพติดตามข้อร้องเรียน 1386 ในพื้นที่จ.นครนายก</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">18 ส.ค. 2569 09:16 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.2</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>85 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                        </div>
+                    </div>
+                                                        </div>
+                
+                                                                                
+                <div class="tab-pane fade " id="navs-tab-information-news-announcement-seizure-attachment" role="tabpanel">
+                                                            <div class="list-group list-group-flush list-content">
+            <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/news/th/6a9794135f6344AEpY.pdf&mode=preview" target="_blank">สำนักงาน ปปส. ภาค 3 แจ้งการยึดหรืออายัดทรัพย์สินชั่วคราวคดีนายวสันต์  ทองพร ผู้ต้องหา</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">2 ก.ย. 2569 10:10 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.3</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>0 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/news/th/6a8fd44a2dd52Rh8u3.pdf&mode=preview" target="_blank">ปปส.ภ.8 ประกาศเรื่อง การแจ้งยึดและอายัดทรัพย์สิน โดย เลขาธิการ ป.ป.ส. ได้มีคำสั่งตรวจสอบทรัพย์สินคดีนายณรงค์ หมาดรา ผู้ต้องหา  มีคำสั่งให้ยึดทรัพย์สินของนายณรงค์ หมาดรา ผู้ต้องหา  ไว้ชั่วคราว จำนวน 2 รายการ โดยมีนางสาวนรีรัตน์ ทองสกุล ผู้อาจอ้างเป็นเจ้าของทรัพย์สิน</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">27 ส.ค. 2569 13:00 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.8</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>6 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/news/th/6a8fd4944a9cboqStX.pdf&mode=preview" target="_blank">ปปส.ภ.8 ประกาศ เรื่องการแจ้งยึดและอายัดทรัพย์สิน โดย เลขาธิการ ป.ป.ส. ได้มีคำสั่งตรวจสอบทรัพย์สินคดีนายณรงค์ หมาดรา ผู้ต้องหา  มีคำสั่งให้ยึดทรัพย์สินคดีนายณรงค์ หมาดรา ผู้ต้องหา  ไว้ชั่วคราว จำนวน 2 รายการ</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">27 ส.ค. 2569 11:48 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.8</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>9 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26084" target="_self">ประกาศ เรื่อง แจ้งการอายัดทรัพย์สิน ประกาศ ณ วันที่ 21 สิงหาคม 2569</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">26 ส.ค. 2569 15:19 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>21 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26083" target="_self">ประกาศ เรื่อง แจ้งการอายัดทรัพย์สิน ประกาศ ณ วันที่ 21 สิงหาคม 2569</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">26 ส.ค. 2569 15:11 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>21 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/news/th/6a8e9a7fac97d8F2FT.pdf&mode=preview" target="_blank">สำนักงาน ปปส. ภาค 6 ปิดประกาศแจ้งการยึดหรืออายัดทรัพย์สินของนายกิตตินันท์ เบียดขุนทด หรือเขียดขุนทด</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">25 ส.ค. 2569 15:45 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.6</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>4 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                                                        </div>
+                
+                                                                                
+                <div class="tab-pane fade " id="navs-tab-information-news-job-recruitment-news" role="tabpanel">
+                                                            <div class="list-group list-group-flush list-content">
+            <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="https://job.oncb.go.th/job/apply/eb31409e-dee4-4059-800b-1b373fb8d7d2" target="_blank">ปปส.กทม. รับสมัครคัดเลือกบุคคลเพื่อรับการจัดจ้างเป็นลูกจ้างเหมาบริการเจ้าหน้าที่สนับสนุนงานด้านการตรวจสอบทรัพย์สินและการบังคับคดียาเสพติด ของสำนักงานป้องกันและปราบปรามยาเสพติดกรุงเทพมหานคร ประจำปีงบประมาณ พ.ศ. 2570 จำนวน 15 อัตรา</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 16:48 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.กทม. </span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>464 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="https://job.oncb.go.th/job/apply/032d8c56-032b-4839-8b7f-15a852ebcf2f" target="_blank">สพบ.วปส.รับสมัครคัดเลือกบุคคลเพื่อรับการจัดจ้างเป็นลูกจ้างเหมาบริการบุคคลธรรมดา
+เพื่อเสริมประสิทธิภาพและสนับสนุนงานของสำนักงาน ป.ป.ส. โดยสถาบันพัฒนาบุคลากรด้านการป้องกันและปราบปรามยาเสพติด ประจำปีงบประมาณ พ.ศ. 2570 จำนวน 9 ตำแหน่ง รวม 13 อัตรา</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 16:34 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>วปส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>246 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="https://job.oncb.go.th/job/apply/5e3a05b8-2e8b-46e7-9d1a-8cc85eb0cbbb" target="_blank">ปปส.ภาค 3 รับสมัครคัดเลือกบุคคลเพื่อรับการจัดจ้างเป็นลูกจ้างเหมาบริการบุคคลธรรมดา เพื่อสนับสนุนงานด้านการป้องกัน ปราบปราม และแก้ไขปัญหายาเสพติด ของสำนักงาน ปปส.ภาค 3 ประจำปีงบประมาณ พ.ศ. 2570 จำนวน 12 อัตรา</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 16:31 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.3</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>949 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="https://job.oncb.go.th/job/apply/c2ac9ead-7b7a-400b-aded-be61190bf5fd" target="_blank">สำนักงาน ปปส. ภาค 8 รับสมัครคัดเลือกบุคคลเพื่อรับการจัดจ้างเป็นลูกจ้างเหมาบริการบุคคลธรรมดา งานจ้างเหมาบริการเจ้าหน้าที่สนับนุนงานด้านการตรวจสอบทรัพย์สินและการบังคับคดียาเสพติด ของสำนักงาน ปปส. ภาค 8 ประจำปีงบประมาณ พ.ศ. 2570 จำนวน 14 อัตรา</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 15:47 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.8</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>234 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+        <div><span class="badge bg-danger">New</span></div>    </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="https://job.oncb.go.th/job/apply/bcfd67cd-56f1-439a-bd37-ec2ffd66618a" target="_blank">สำนักงาน ปปส. ภาค 9  รับสมัครคัดเลือกบุคคลเพื่อรับการจัดจ้างเป็นลูกจ้างเหมาบริการเจ้าหน้าที่สนับสนุนงานด้านการตรวจสอบทรัพย์สินและการบังคับคดียาเสพติด ประจำปีงบประมาณ พ.ศ. 2570  จำนวน 15 อัตรา</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">1 ก.ย. 2569 14:04 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.9</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>213 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="https://job.oncb.go.th/job/apply/3b69d30f-ade3-4067-af6f-6e4f90c6542e" target="_blank">สำนักงานป้องกันและปราบปรามยาเสพติด ภาค 5 รับสมัครคัดเลือกบุคคลเพื่อรับการจัดจ้างเป็นลูกจ้างเหมาบริการเจ้าหน้าที่สนับสนุนงาน
+ด้านการตรวจสอบทรัพย์สินและการบังคับคดียาเสพติด ประจำปีงบประมาณ พ.ศ. 2570 จำนวน 14 อัตรา</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">31 ส.ค. 2569 16:55 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.5</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>2101 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                                                        </div>
+                
+                                                                                
+                <div class="tab-pane fade " id="navs-tab-information-news-executive-news" role="tabpanel">
+                                                            <div class="row gy-6">
+                                                <div class="col-12 col-lg-7">
+                            <div class="news-item">
+                                <a href="/news/26146" target="_self">
+                                    <div class="news-image">
+                                        <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/medium/6a96701e58c0daj1vmnQYkh.webp" alt>
+                                    </div>
+                                    <div class="news-overlay">
+                                        <div class="news-date">1 ก.ย. 2569 13:26 น.</div>
+                                        <div class="news-title">
+                                            เลขาธิการ ป.ป.ส. พร้อมด้วยนายสราวุธ ภักดี ผู้อำนวยการสำนักงาน ปปส. ภาค 2 และเจ้าหน้าที่ ปปส.ภ.2 ลงพื้นที่ศูนย์การเรียนรู้กองทุนแม่ของแผ่นดินบ้านห้วยมะเฟือง หมู่ที่ 15 ตำบลตะพง อำเภอเมืองระยอง จังหวัดระยอง                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-5">
+                            <div class="d-flex flex-column gap-4 news-list">
+                    <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26142&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a953e4b153a7GMEnZdaaUa.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26142" target="_self" aria-label="Read more">วันจันทร์ที่ 31 สิงหาคม 2569 เวลา 09.30 น. นายรัชพล ปาละกูล ผอ.ปปส.ภ.9 เข้าร่วมประชุมขับเคลื่อนและติดตามผลการดำเนินงานตามนโยบายของกระทรวงยุติธรรม โดยมีพลตำรวจโท รุทธพล เนาวรัตน์ รัฐมนตรีว่าการกระทรวงยุติธรรม เป็นประธาน</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">31 ส.ค. 2569 15:40 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.9</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>10 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26141&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a9535763f498fek8cv1UtA.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26141" target="_self" aria-label="Read more">ปปส.กทม. จัดโครงการพัฒนาศักยภาพแกนนำเครือข่าย ศอ.ปส.ย.กทม. เสริมพลังเยาวชนขับเคลื่อนงานป้องกันยาเสพติด</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">31 ส.ค. 2569 15:00 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.กทม. </span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>18 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26140&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a9531df7f1cdVeZugfVppV.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26140" target="_self" aria-label="Read more">ระหว่างวันที่ 28 -30 สิงหาคม 2569 นางสาวสุวิมล ช้างสาร ผู้อำนวยการส่วนยุทธศาสตร์และอำนวยการ เป็นประธานเปิด โครงการพัฒนาศักยภาพเจ้าหน้าที่สมาคมป้องกันและแก้ไขปัญหายาเสพติดจังหวัดชายแดนภาคใต้ของสมาคมป้องกันและแก้ไขปัญหายาเสพติดจังหวัดชายแดนภาคใต้ หัวข้อ “การประยุกต์ใช้ AI และ Microsoft Excel เพื่อเพิ่มประสิทธิภาพการปฏิบัติงาน” ประจำปีงบประมาณ 2569</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">31 ส.ค. 2569 14:48 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.9</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>11 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26121&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a94debbd674b944QxuBdMF.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26121" target="_self" aria-label="Read more">ปปส.ภ.7 ลงพื้นที่เยี่ยมให้กำลังใจผู้บำบัดฯ ส่งเสริมโอกาสเริ่มต้นชีวิตใหม่ ห่างไกลยาเสพติด</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">31 ส.ค. 2569 08:52 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>16 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="d-flex gap-5">
+                <div class="news-image flex-shrink-0">
+            <a href="/news/26118&view=detail" target="_self" aria-label="Read more">
+                <img src="https://s3.oncb.go.th/oncb-datacenter/web/news/cover/thumbnail/6a94dd4c06d76knao8TiDvr.webp" alt="">
+            </a>
+        </div>
+                <div class="flex-grow-1">
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/26118" target="_self" aria-label="Read more"> ปปส.ภ.7 หารือปรับแผนยุทธศาสตร์สกัดกั้นยาเสพติด เตรียมบูรณาการงบประมาณปี 2570 ให้ตอบโจทย์พื้นที่</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">31 ส.ค. 2569 08:46 น.</div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>ปปส.ภ.7</span>
+                </div>
+                                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-mt me-1"></span>
+                    <span>18 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                        </div>
+                    </div>
+                                                        </div>
+                
+                                                                                
+                <div class="tab-pane fade " id="navs-tab-information-news-other-news" role="tabpanel">
+                                                            <div class="list-group list-group-flush list-content">
+            <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/24812" target="_self">ขอเชิญเข้าชมนิทรรศการออนไลน์ เนื่องในวันข้าราชการพลเรือน ประจำปี พ.ศ. 2569</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">30 มี.ค. 2569 17:20 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>185 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/24480" target="_self">การรับฟังความคิดเห็นต่อ ร่างระเบียบคณะกรรมการป้องกันและปราบปรามยาเสพติด ว่าด้วยการแต่งตั้ง การปฏิบัติหน้าที่ และการกำกับดูแลการปฏิบัติหน้าที่ของเจ้าพนักงาน ป.ป.ส. (ฉบับที่ ..)  พ.ศ. ....   </a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">27 ก.พ. 2569 11:32 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>318 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/23765" target="_self">นโยบาย No Gift Policy จากการปฏิบัติหน้าที่ ประจำปีงบประมาณ พ.ศ. 2569</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">9 ธ.ค. 2568 15:24 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>450 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/23663" target="_self">มาตรการป้องกันการทุจริตและประพฤติมิชอบ กระทรวงยุติธรรม ประจำปีงบประมาณ พ.ศ. 2569</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">6 ธ.ค. 2568 00:01 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>182 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/pdfjs/web/viewer.html?file=/storage/file/news/th/691e82908ed47dnbK1.pdf&mode=preview" target="_blank">แผนพัฒนาสุขภาพจิตแห่งชาติ ฉบับที่ 1 (พ.ศ. 2561 - 2580) ระยะที่ 2 (พ.ศ. 2566 - 25670)</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">20 พ.ย. 2568 09:47 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>36 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+                <div class="list-group-item d-flex gap-5">
+                <div class="flex-grow-1">
+
+            <h2 class="news-title text-truncate-2 mb-1">
+                <a href="/news/23448" target="_self">ไทยช่วยไทย ให้ห่างไกลยาเสพติด พบเบาะแสยาเสพติด แจ้งได้ทันที ผ่านแอปฯ ทางรัฐ</a>
+            </h2>
+
+            <div class="d-flex flex-wrap gap-3 row-gap-2 mt-2">
+                <div class="news-date">14 พ.ย. 2568 15:15 น.                                    </div>
+
+                                <div class="news-date">
+                    <span class="ti ti-speakerphone ti-sm ti-mt me-1"></span>
+                    <span>สำนักงาน ป.ป.ส.</span>
+                </div>
+                
+                                <div class="news-view">
+                    <span class="ti ti-eye ti-sm ti-mt me-1"></span>
+                    <span>178 ครั้ง</span>
+                </div>
+                            </div>
+        </div>
+            </div>
+        </div>
+                                                        </div>
+                                            </div>
+        </div>
+    </div>
+</section>
+    <!-- สื่อประชาสัมพันธ์ -->
+    <section class="section-mb landing-media overflow-hidden">
+    <div class="container px-3">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">สื่อประชาสัมพันธ์</h1>
+            <a href="/media/knowledge" class="btn btn-default">
+                ดูทั้งหมด<span class="ti ti-arrow-right ms-2"></span>
+            </a>
+        </div>
+                <div id="media-items-knowledge" class="swiper media-items pt-3">
+            <div class="swiper-wrapper">
+                                <div class="swiper-slide media-item">
+                    <a href="/media/knowledge/educational-media-narcotics" target="_self">
+                        <div class="media-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/media/group/cover/medium/680b44e84e27chfnLTGBSc8.webp" alt>
+                        </div>
+                        <div class="media-overlay">
+                            <h2 class="media-title text-truncate-2">
+                                สื่อความรู้เกี่ยวกับยาเสพติด                            </h2>
+                        </div>
+                    </a>
+                </div>
+                                <div class="swiper-slide media-item">
+                    <a href="/media/knowledge/narcotics-prevention-education" target="_self">
+                        <div class="media-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/media/group/cover/medium/6717e15c50b5ad7c6CO1OWL.webp" alt>
+                        </div>
+                        <div class="media-overlay">
+                            <h2 class="media-title text-truncate-2">
+                                ชุดความรู้เพื่อการป้องกันยาเสพติดในสถานศึกษา                            </h2>
+                        </div>
+                    </a>
+                </div>
+                                <div class="swiper-slide media-item">
+                    <a href="/media/knowledge/we-are-one" target="_self">
+                        <div class="media-image">
+                            <img src="https://s3.oncb.go.th/oncb-datacenter/web/media/group/cover/medium/6a447b5b1892dmB3YFg2nSg.webp" alt>
+                        </div>
+                        <div class="media-overlay">
+                            <h2 class="media-title text-truncate-2">
+                                มิวสิควิดีโอเพลงส่งเสริมค่านิยมและวัฒนธรรมองค์กรกระทรวงยุติธรรม (เพลงเราเป็นหนึ่งเดียว)                            </h2>
+                        </div>
+                    </a>
+                </div>
+                            </div>
+            <button type="button" aria-label="swiper-btn-prev"
+                class="btn btn-default swiper-btn-prev swiper-btn-prev-knowledge">
+                <span class="ti ti-chevron-left"></span>
+            </button>
+            <button type="button" aria-label="swiper-btn-next"
+                class="btn btn-default swiper-btn-next swiper-btn-next-knowledge">
+                <span class="ti ti-chevron-right"></span>
+            </button>
+        </div>
+            </div>
+</section>
+
+<script>
+    new Swiper("#media-items-knowledge", {
+        slidesPerView: "auto",
+        spaceBetween: 15,
+        centeredSlides: false, // สไลด์ไม่จัดกึ่งกลาง
+        a11y: {
+            enabled: false, // ปิดการใช้งาน ARIA ที่สร้างอัตโนมัติ (ถ้ามี)
+        },
+        navigation: {
+            nextEl: '.swiper-btn-next-knowledge',
+            prevEl: '.swiper-btn-prev-knowledge',
+        },
+        breakpoints: {
+            0: {
+                slidesPerView: 1, // col-sm-6: แสดง 2 คอลัมน์บนหน้าจอขนาดเล็ก
+                spaceBetween: 5,
+            },
+            480: {
+                slidesPerView: 2, // แสดง 1 คอลัมน์เมื่อหน้าจอน้อยกว่า 480px
+                spaceBetween: 10,
+            },
+            // สำหรับหน้าจอขนาดเล็ก (เช่น col-sm-6)
+            576: {
+                slidesPerView: 2, // col-sm-6: แสดง 2 คอลัมน์บนหน้าจอขนาดเล็ก
+                spaceBetween: 10,
+            },
+            // สำหรับหน้าจอขนาดกลาง (เช่น col-md)
+            768: {
+                slidesPerView: 2, // col-md: แสดง 3 คอลัมน์
+                spaceBetween: 15,
+            },
+            // สำหรับหน้าจอขนาดใหญ่ (เช่น col-lg หรือ col-xl)
+            1200: {
+                slidesPerView: 3, // col-xl-4: แสดง 4 คอลัมน์บนหน้าจอขนาดใหญ่
+                spaceBetween: 30
+            },
+
+        },
+    });
+</script>
+    <!-- กิจกรรม -->
+    
+    <!-- ระบบสารสนเทศ -->
+    <section class="section-mb landing-links">
+        <div class="container px-3 links-container" data-total="21">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">ระบบสารสนเทศ</h1>
+            <div class="d-none d-md-flex align-items-center gap-3">
+                <div class="swiper-pagination-info">
+                    <span class="current-slide">0</span> - <span class="end-slide">0</span>
+                    จาก <span class="total-slide">0</span>
+                </div>
+
+                <div class="d-flex gap-3">
+                    <button type="button" aria-label="swiper-btn-prev"
+                        class="btn btn-default swiper-btn-prev swiper-btn-prev-information-systems">
+                        <span class="ti ti-chevron-left"></span>
+                    </button>
+                    <button type="button" aria-label="swiper-btn-next"
+                        class="btn btn-default swiper-btn-next swiper-btn-next-information-systems">
+                        <span class="ti ti-chevron-right"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="links-grid-information-systems" class="swiper link-items links-grid-style-0 pt-3">
+            <div class="swiper-wrapper">
+                                                <a href="https://1386.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67600a457a66d6tZ9AIKDGP.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">แจ้งเบาะแสยาเสพติด</div>
+                </a>
+                                <a href="https://neos.oncb.go.th/OS/login"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/674fde34a9e0clJ6clmG1Ne.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">ระบบบริหารจัดการข้อมูลเจ้าพนักงาน ป.ป.ส. (NEOS) </div>
+                </a>
+                                <a href="https://apioncb.oncb.go.th/ONCB-Petition/public/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/675bcf8309f48zTdRm0CgFp.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">แจ้งเรื่องร้องเรียน<br/>การทุจริตฯ</div>
+                </a>
+                                <a href="https://www.oncb.go.th/media/knowledge/educational-media-narcotics"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/675be3e3a0594jWCXVXFPiT.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">สื่อความรู้<br/>เกี่ยวกับยาเสพติด </div>
+                </a>
+                                <a href="https://www.oncb.go.th/media/knowledge/narcotics-prevention-education"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/675be3ef82b81PYKXrBT1Mp.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">สื่อความรู้เพื่อการป้องกันยาเสพติด<br/>ในสถานศึกษา </div>
+                </a>
+                                <a href="https://job.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/675bd0172382fO2QAnEMpe2.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">สมัครงาน<br/>สำนักงาน ป.ป.ส</div>
+                </a>
+                                <a href="https://nispaplus.nccd.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/673edad654dbd3Sec9IM9sH.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3"> ระบบสารสนเทศ<br/>ยาเสพติดจังหวัด<br/>(NISPA+) </div>
+                </a>
+                                <a href="https://mtf.oncb.go.th/login1.php"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/675bdfacf2ef5LLKr6DuQtB.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">ระบบ MTF<br/>เด็กและเยาวชน</div>
+                </a>
+                                <a href="https://aseannarco.oncb.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/673daa0684630Tg7ccbTtdh.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">สำนักงาน ป.ป.ส.อาเซียน<br/>(ASEAN-NARCO) </div>
+                </a>
+                                <a href="https://www.nccd.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="ระบบสารสนเทศ"></div>
+                    <div class="flex-grow-1 ms-3">คณะกรรมการ ครส.</div>
+                </a>
+                                <a href="https://nccdor.nccd.go.th/chemical/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="ระบบสารสนเทศ"></div>
+                    <div class="flex-grow-1 ms-3">ระบบการแจ้ง<br/>สารเคมีควบคุม</div>
+                </a>
+                                <a href="https://drugdetection.oncb.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="ระบบสารสนเทศ"></div>
+                    <div class="flex-grow-1 ms-3">ระบบข้อมูล<br/>การตรวจสารเสพติด</div>
+                </a>
+                                <a href="https://km.oncb.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6848ee4781dd3xp9RkaQTFH.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">การจัดการองค์ความรู้ สำนักงาน ป.ป.ส.</div>
+                </a>
+                                <a href="https://nctc.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/684a8e4eafed9TG0X03XJ0L.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">ศูนย์วิชาการ<br/>ด้านยาเสพติด</div>
+                </a>
+                                <a href="https://www.kongtunmae-oncb.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/675be0cbbe87d37Q5H99Vut.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">กองทุนแม่ของแผ่นดิน</div>
+                </a>
+                                <a href="https://nispa.nccd.go.th/cydot_member/login.php"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/675be2117b465ZzpqnxB6ih.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">ข้อมูลสมาชิก ศอ.ปส.ย.</div>
+                </a>
+                                <a href="https://infocenter.oic.go.th/สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="ระบบสารสนเทศ"></div>
+                    <div class="flex-grow-1 ms-3">ศูนย์บริการ<br/>ข้อมูลข่าวสาร</div>
+                </a>
+                                <a href="https://hr.nccd.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="ระบบสารสนเทศ"></div>
+                    <div class="flex-grow-1 ms-3">ระบบทะเบียนกำลังพล<br/>ผู้ปฏิบัติงาน<br/>ด้านยาเสพติด</div>
+                </a>
+                                <a href="https://welfare.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/68ad347ef1cc2mFmJ7jdZ9H.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">เว็บไซต์สวัสดิการ<br/>สำนักงาน ป.ป.ส.</div>
+                </a>
+                                <a href="https://bond.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/698c23ec2b4bb2KyxqnRjq7.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">โครงการฟื้นฟูพลังใจ<br/>อ้อมกอดแห่งสายใย<br/>ของชุมชน</div>
+                </a>
+                                <a href="https://www.oncb.go.th/learning-center"                     class="swiper-slide d-flex align-items-center link-button-information-systems">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="ระบบสารสนเทศ"></div>
+                    <div class="flex-grow-1 ms-3">ศูนย์การเรียนรู้องค์กรคุณธรรมต้นแบบและความโปร่งใส</div>
+                </a>
+                                                            </div>
+        </div>
+
+        <div class="d-flex d-md-none align-items-center justify-content-between gap-3 mt-4">
+            <button type="button" aria-label="swiper-btn-prev"
+                class="btn btn-default swiper-btn-prev swiper-btn-prev-information-systems">
+                <span class="ti ti-chevron-left"></span>
+            </button>
+            <div class="swiper-pagination-info">
+                <span class="current-slide">0</span> - <span class="end-slide">0</span>
+                จาก <span class="total-slide">0</span>
+            </div>
+            <button type="button" aria-label="swiper-btn-next"
+                class="btn btn-default swiper-btn-next swiper-btn-next-information-systems">
+                <span class="ti ti-chevron-right"></span>
+            </button>
+        </div>
+    </div>
+</section>
+<script>
+    swiperRenderLinksGrid("information-systems");
+</script>
+
+    <!-- หน่วยงานภายใน -->
+    <section class="section-mb landing-links">
+        <div class="container px-3 links-container" data-total="18">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">หน่วยงานภายใน</h1>
+            <div class="d-none d-md-flex align-items-center gap-3">
+                <div class="swiper-pagination-info">
+                    <span class="current-slide">0</span> - <span class="end-slide">0</span>
+                    จาก <span class="total-slide">0</span>
+                </div>
+
+                <div class="d-flex gap-3">
+                    <button type="button" aria-label="swiper-btn-prev"
+                        class="btn btn-default swiper-btn-prev swiper-btn-prev-internal-offices">
+                        <span class="ti ti-chevron-left"></span>
+                    </button>
+                    <button type="button" aria-label="swiper-btn-next"
+                        class="btn btn-default swiper-btn-next swiper-btn-next-internal-offices">
+                        <span class="ti ti-chevron-right"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="links-grid-internal-offices" class="swiper link-items links-grid-style-0 pt-3">
+            <div class="swiper-wrapper">
+                                                <a href="https://bkk.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.กทม.</div>
+                </a>
+                                <a href="https://or1.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 1</div>
+                </a>
+                                <a href="https://or2.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 2</div>
+                </a>
+                                <a href="https://or3.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 3</div>
+                </a>
+                                <a href="https://or4.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 4</div>
+                </a>
+                                <a href="https://or5.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 5</div>
+                </a>
+                                <a href="https://or6.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 6</div>
+                </a>
+                                <a href="https://or7.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 7</div>
+                </a>
+                                <a href="https://or8.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 8</div>
+                </a>
+                                <a href="https://or9.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">ปปส.ภาค 9</div>
+                </a>
+                                <a href="https://natsi.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">สวพ.</div>
+                </a>
+                                <a href="https://ncsci.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">สพส.</div>
+                </a>
+                                <a href="https://incc.oncb.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">วปส.</div>
+                </a>
+                                <a href="https://nccd.go.th"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="/img/logo/oncb-th.svg" alt="หน่วยงานภายใน"></div>
+                    <div class="flex-grow-1 ms-3">คณะกรรมการ ครส.</div>
+                </a>
+                                <a href="https://ncfund.oncb.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67977b8eb0c8d0SX9yDujKw.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">กองทุน ป.ป.ส.</div>
+                </a>
+                                <a href="https://welfare.oncb.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67977b7890937YtCNxVOhLc.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">สวัสดิการสำนักงาน ป.ป.ส.</div>
+                </a>
+                                <a href="https://www.oncbcoop.or.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67977341652a6P60w9z5lAm.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">สหกรณ์ออมทรัพย์สำนักงาน ปปส.จำกัด</div>
+                </a>
+                                <a href="https://www.kongtunmae-oncb.go.th/"  target="_blank"                    class="swiper-slide d-flex align-items-center link-button-internal-offices">
+                    <div class="flex-shrink-0" style="max-width: 3.4rem;"><img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67977bac3abb7VueYpQroBO.webp" alt=""></div>
+                    <div class="flex-grow-1 ms-3">กองทุนแม่ของแผ่นดิน</div>
+                </a>
+                                                            </div>
+        </div>
+
+        <div class="d-flex d-md-none align-items-center justify-content-between gap-3 mt-4">
+            <button type="button" aria-label="swiper-btn-prev"
+                class="btn btn-default swiper-btn-prev swiper-btn-prev-internal-offices">
+                <span class="ti ti-chevron-left"></span>
+            </button>
+            <div class="swiper-pagination-info">
+                <span class="current-slide">0</span> - <span class="end-slide">0</span>
+                จาก <span class="total-slide">0</span>
+            </div>
+            <button type="button" aria-label="swiper-btn-next"
+                class="btn btn-default swiper-btn-next swiper-btn-next-internal-offices">
+                <span class="ti ti-chevron-right"></span>
+            </button>
+        </div>
+    </div>
+</section>
+<script>
+    swiperRenderLinksGrid("internal-offices");
+</script>
+
+    <!-- หน่วยงานภายนอก -->
+    <section class="section-mb landing-links">
+        <div class="container px-3 links-container" data-total="22">
+        <div class="section-heading d-flex">
+            <h1 class="section-title flex-grow-1">หน่วยงานภาคี</h1>
+            <div class="d-none d-md-flex align-items-center gap-3">
+                <div class="swiper-pagination-info">
+                    <span class="current-slide">0</span> - <span class="end-slide">0</span>
+                    จาก <span class="total-slide">0</span>
+                </div>
+
+                <div class="d-flex gap-3">
+                    <button type="button" aria-label="swiper-btn-prev"
+                        class="btn btn-default swiper-btn-prev swiper-btn-prev-external-offices">
+                        <span class="ti ti-chevron-left"></span>
+                    </button>
+                    <button type="button" aria-label="swiper-btn-next"
+                        class="btn btn-default swiper-btn-next swiper-btn-next-external-offices">
+                        <span class="ti ti-chevron-right"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="links-grid-external-offices" class="swiper link-items links-grid-style-icon pt-3">
+            <div class="swiper-wrapper">
+                                                <a href="https://www.dxc.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="DXC : Data Exchange Center" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/673da1146a7a1tl2OqIsqne.webp" alt="DXC : Data Exchange Center">                </a>
+                                <a href="https://www.moj.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กระทรวงยุติธรรม" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/673d9fa2b2362iKcTAv6zZe.webp" alt="กระทรวงยุติธรรม">                </a>
+                                <a href="https://www.dopa.go.th/"  class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมการปกครอง" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6700f9f38b4afjhVi0YtTXI.webp" alt="กรมการปกครอง">                </a>
+                                <a href="https://www.moph.go.th/"  class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กระทรวงสาธารณสุข" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6700fb3798cfctJD46I2SHI.webp" alt="กระทรวงสาธารณสุข">                </a>
+                                <a href="https://www.royalthaipolice.go.th/"  class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สำนักงานตำรวจแห่งชาติ" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6743eefb70a32rt1dEo4aiF.webp" alt="สำนักงานตำรวจแห่งชาติ">                </a>
+                                <a href="https://www.amlo.go.th"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สำนักงาน ปปง." data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2ee5da662ravZVh87Dy.webp" alt="สำนักงาน ปปง.">                </a>
+                                <a href="https://www.nacc.go.th/allcomplaint"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="ช่องทางแจ้งเรื่องร้องเรียนกับ สำนักงาน ป.ป.ช." data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6a2a87fd329bdMIreMUFpRt.webp" alt="ช่องทางแจ้งเรื่องร้องเรียนกับ สำนักงาน ป.ป.ช.">                </a>
+                                <a href="https://anonymous.pacc.go.th"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="ช่องทางแจ้งเรื่องร้องเรียนกับ สำนักงาน ป.ป.ท." data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6a2a8811183f4giLsgYj4KG.webp" alt="ช่องทางแจ้งเรื่องร้องเรียนกับ สำนักงาน ป.ป.ท.">                </a>
+                                <a href="https://www.moe.go.th/"  class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กระทรวงศึกษาธิการ" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2eeaa6bbfXPV46EhXW4.webp" alt="กระทรวงศึกษาธิการ">                </a>
+                                <a href="https://www.mol.go.th/"  class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมแรงงาน" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2ef1884d9JwEZ9jA5dL.webp" alt="กรมแรงงาน">                </a>
+                                <a href="https://www.thainsw.net"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="ระบบการอนุญาต และการแจ้งนำเข้า หรือส่งออกใบกระท่อม สำนักงาน ป.ป.ส." data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/68468147a5c46Bv29kjnLkS.webp" alt="ระบบการอนุญาต และการแจ้งนำเข้า หรือส่งออกใบกระท่อม สำนักงาน ป.ป.ส.">                </a>
+                                <a href="https://www.saafth.org"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="มูลนิธิศูนย์วิชาการ สารเสพติด (SAAFTH)" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6863a655c94a97YJlnGpW0A.webp" alt="มูลนิธิศูนย์วิชาการ สารเสพติด (SAAFTH)">                </a>
+                                <a href="https://www.dsi.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมสอบสวนคดีพิเศษ" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2ef5df644XvOVlAxkpq.webp" alt="กรมสอบสวนคดีพิเศษ">                </a>
+                                <a href="https://www.led.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมบังคับคดี" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2efbf2dadYgEWUkBATy.webp" alt="กรมบังคับคดี">                </a>
+                                <a href="https://www.correct.go.th/"  class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมราชทัณฑ์" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2f01dfa8aTObCJpL4Fj.webp" alt="กรมราชทัณฑ์">                </a>
+                                <a href="https://www.probation.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมคุมประพฤติ" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2f073cdffv3pEO7D9II.webp" alt="กรมคุมประพฤติ">                </a>
+                                <a href="https://www.djop.go.th "  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมพินิจและคุ้มครองเด็กและเยาวชน" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2f0c76cd0VEVxI9HO28.webp" alt="กรมพินิจและคุ้มครองเด็กและเยาวชน">                </a>
+                                <a href="https://www.oja.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สำนักงานกิจการยุติธรรม" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/672a2f126039ciPvl72osJV.webp" alt="สำนักงานกิจการยุติธรรม">                </a>
+                                <a href="https://www.rlpd.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="กรมคุ้มครองสิทธิและเสรีภาพ" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/674036a862daej0oOSv2D7W.webp" alt="กรมคุ้มครองสิทธิและเสรีภาพ">                </a>
+                                <a href="https://www.cifs.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สถาบันนิติวิทยาศาสตร์" data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/67403717a0f71vz4UlTdjmc.webp" alt="สถาบันนิติวิทยาศาสตร์">                </a>
+                                <a href="https://www.ocsc.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สำนักงาน ก.พ." data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6740383835a5cSYNKMOicYS.webp" alt="สำนักงาน ก.พ.">                </a>
+                                <a href="https://www.ago.go.th/"  target="_blank" class="swiper-slide d-flex link-button-external-offices" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="สำนักงานอัยการสูงสุด " data-bs-html="true">
+                    <img src="https://s3.oncb.go.th/oncb-main/web/link/icons/6740388c928b24aeeHHHml1.webp" alt="สำนักงานอัยการสูงสุด ">                </a>
+                                            </div>
+        </div>
+
+        <div class="d-flex d-md-none align-items-center justify-content-between gap-3 mt-4">
+            <button type="button" aria-label="swiper-btn-prev"
+                class="btn btn-default swiper-btn-prev swiper-btn-prev-external-offices">
+                <span class="ti ti-chevron-left"></span>
+            </button>
+            <div class="swiper-pagination-info">
+                <span class="current-slide">0</span> - <span class="end-slide">0</span>
+                จาก <span class="total-slide">0</span>
+            </div>
+            <button type="button" aria-label="swiper-btn-next"
+                class="btn btn-default swiper-btn-next swiper-btn-next-external-offices">
+                <span class="ti ti-chevron-right"></span>
+            </button>
+        </div>
+    </div>
+</section>
+<script>
+    swiperRenderLinksGrid("external-offices");
+</script>
+</div>
+
+    </div>
+    <!-- / Sections:End -->
+
+    <!-- Footer -->
+    <!-- Footer: Start -->
+<footer class="footer footer-text mt-auto">
+        <div class="footer-top position-relative overflow-hidden bg-body border-top z-1 py-md-5">
+        <div class="container px-3 pt-4 pb-0">
+            <div class="row gx-5 gy-6">
+                <div class="col-6 col-lg-3 col-md-4 col-sm-6"><div class="footer-title mb-4 h6">เกี่ยวกับ ป.ป.ส.</div><ul class="list-unstyled footer-link"><li><a href="/about/history"><span class="ti ti-point-filled me-2"></span>ประวัติความเป็นมา</a></li><li><a href="/about/5"><span class="ti ti-point-filled me-2"></span>วิสัยทัศน์ พันธกิจ</a></li><li><a href="/about/6"><span class="ti ti-point-filled me-2"></span>โครงสร้างและภารกิจหน้าที่</a></li><li><a href="/actionplan" target="_blank"><span class="ti ti-point-filled me-2"></span>นโยบาย ยุทธศาสตร์และแผนปฏิบัติการ</a></li><li><a href="https://nccd.go.th/command1" target="_blank"><span class="ti ti-point-filled me-2"></span>คำสั่ง ระเบียบ และคำสั่งที่เกี่ยวข้อง</a></li><li><a href="/plan-report" target="_blank"><span class="ti ti-point-filled me-2"></span>แผนงาน/โครงการ/กิจกรรมและรายงาน</a></li><li><a href="/og" target="_blank"><span class="ti ti-point-filled me-2"></span>แนวทางปฏิบัติงาน</a></li><li><a href="/standards" target="_blank"><span class="ti ti-point-filled me-2"></span>มาตรฐานทางจริยธรรม 7 ประการ</a></li><li><a href="/about/16"><span class="ti ti-point-filled me-2"></span>ข้อมูลการติดต่อ</a></li><li><a href="/about/17"><span class="ti ti-point-filled me-2"></span>แผนที่ตั้งหน่วยงาน</a></li></ul></div><div class="col-6 col-lg-3 col-md-4 col-sm-6"><div class="footer-title mb-4 h6">กฎหมาย</div><ul class="list-unstyled footer-link"><li><a href="https://www.oncb.go.th/pdfjs/web/viewer.html?file=/storage/file/media/th/67ecec9e4489dSW2tT.pdf&amp;mode=preview" target="_blank"><span class="ti ti-point-filled me-2"></span>หนังสือรวมกฎหมายยาเสพติด (TH)</a></li><li><a href="https://www.oncb.go.th/pdfjs/web/viewer.html?file=/storage/file/media/th/67ece6e37c37bK3roM.pdf&amp;mode=preview" target="_blank"><span class="ti ti-point-filled me-2"></span>หนังสือรวมกฎหมายยาเสพติด (EN)</a></li><li><a href="/current-law"><span class="ti ti-point-filled me-2"></span>กฎหมายปัจจุบัน</a></li><li><a href="/draft"><span class="ti ti-point-filled me-2"></span>ร่างกฎหมาย</a></li><li><a href="/effectivenes" target="_blank"><span class="ti ti-point-filled me-2"></span>การประเมินผลสัมฤทธิ์ของกฎหมาย</a></li><li><a href="https://nccd.go.th/command1" target="_blank"><span class="ti ti-point-filled me-2"></span>คำสั่ง ระเบียบ ประกาศ</a></li></ul></div><div class="col-6 col-lg-3 col-md-4 col-sm-6"><div class="footer-title mb-4 h6">ป.ป.ส. บริการ</div><ul class="list-unstyled footer-link"><li><a href="https://1386.oncb.go.th/" target="_blank"><span class="ti ti-point-filled me-2"></span>แจ้งเบาะแสยาเสพติด 1386</a></li><li><a href="https://neos.oncb.go.th/OS/login" target="_blank"><span class="ti ti-point-filled me-2"></span>ระบบบริหารจัดการข้อมูล เจ้าพนักงาน ป.ป.ส. (NEOS)</a></li><li><a href="https://job.oncb.go.th" target="_blank"><span class="ti ti-point-filled me-2"></span>สมัครงานสำนักงาน ป.ป.ส.</a></li><li><a href="https://apioncb.oncb.go.th/ONCB-Petition/public/" target="_blank"><span class="ti ti-point-filled me-2"></span>แจ้งเรื่องร้องเรียนการทุจริต</a></li><li><a href="https://www.oncb.go.th/media/knowledge/narcotics-prevention-education" target="_blank"><span class="ti ti-point-filled me-2"></span>สื่อความรู้เพื่อป้องกันฯ ในสถานศึกษา</a></li><li><a href="https://www.oncb.go.th/media/knowledge/educational-media-narcotics" target="_blank"><span class="ti ti-point-filled me-2"></span>สื่อความรู้เกี่ยวกับยาเสพติด</a></li><li><a href="https://nccdor.nccd.go.th/chemical/" target="_blank"><span class="ti ti-point-filled me-2"></span>ระบบการแจ้งสารเคมีควบคุม</a></li><li><a href="https://aseannarco.oncb.go.th/" target="_blank"><span class="ti ti-point-filled me-2"></span>สำนักงาน ป.ป.ส.อาเซียน (ASEAN-NARCO) </a></li><li><a href="https://nispaplus.nccd.go.th/" target="_blank"><span class="ti ti-point-filled me-2"></span>ระบบสารสนเทศยาเสพติดจังหวัด (NISPA+)</a></li><li><a href="https://hr.nccd.go.th" target="_blank"><span class="ti ti-point-filled me-2"></span>ระบบทะเบียนกำลังพลผู้ปฏิบัติงานด้านยาเสพติด</a></li><li><a href="https://www.oncb.go.th/oncb-services/56"><span class="ti ti-point-filled me-2"></span>ข้อมูลบริการของ  ป.ป.ส.</a></li><li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJk6r_6eP9DkwEdMVvebpGMhhN5VIDmqjd-Ej0t1BpS31q8w/viewform" target="_blank"><span class="ti ti-point-filled me-2"></span>ความคิดเห็นเกี่ยวกับสำนักงาน ป.ป.ส.</a></li></ul></div><div class="col-6 col-lg-3 col-md-4 col-sm-6"><div class="footer-title mb-4 h6">ดาวน์โหลด</div><ul class="list-unstyled footer-link"><li><a href="/download?group=download&amp;category=command"><span class="ti ti-point-filled me-2"></span>ดาวน์โหลดคำสั่ง</a></li><li><a href="/download?group=download&amp;category=document"><span class="ti ti-point-filled me-2"></span>ดาวน์โหลดแบบฟอร์ม/เอกสาร</a></li><li><a href="/download?group=download&amp;category=application"><span class="ti ti-point-filled me-2"></span>ดาวน์โหลดแอปพลิเคชั่น</a></li></ul></div>            </div>
+        </div>
+    </div>
+            <div class="footer-middle bg-body border-top">
+        <div
+            class="container px-3 d-flex flex-wrap align-items-center justify-content-sm-center gap-4 row-gap-3 breadcrumb-divider">
+            <a class="nav-link " href="https://www.oncb.go.th/page/service-terms-and-policies" target="_blank">ข้อกำหนดและนโยบายการให้บริการ</a><a class="nav-link " href="https://www.oncb.go.th/page/pdpa-guidelines" target="_blank">นโยบายการคุ้มครองข้อมูลส่วนบุคคล</a><a class="nav-link " href="https://www.oncb.go.th/page/information-technology-security-policy" target="_blank">นโยบายการรักษาความมั่นคงปลอดภัยด้วยเทคโนโลยีสารสนเทศ</a><a class="nav-link " href="https://www.oncb.go.th/page/cookie-policy" target="_blank">นโยบายคุกกี้</a>            <a href="#" data-cc="c-settings" aria-haspopup="dialog"><span class="ti ti-settings-cog me-2"></span>ตั้งค่าคุกกี้</a>
+        </div>
+    </div>
+        <div class="footer-bottom bg-body border-top py-3 py-md-5">
+        <div class="container px-3">
+            <div class="d-md-flex flex-wrap justify-content-between row-gap-3">
+                <!-- Left column with logo and contact info -->
+                <div class="d-flex gap-4">
+                    <div class="footer-logo">
+                        <img src="/img/logo/oncb-th.svg"
+                            alt="สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด">
+                    </div>
+                    <div class="footer-address">
+                        <div class="h6 mb-1">สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด</div>
+                        เลขที่ 5 ถนนดินแดง แขวงสามเสนใน เขตพญาไท กรุงเทพมหานคร 10400<br>
+                        โทรศัพท์ 02-247-0901-19 &nbsp; โทรสาร 02-245-9350 &nbsp;
+
+                                                Contact us:
+                                                <a href="mailto:saraban@oncb.go.th">saraban@oncb.go.th</a>,
+                                                <a href="mailto:webmaster@oncb.go.th">webmaster@oncb.go.th</a>
+                                                <br>
+                                                <span class="">Copyright &copy;
+                            <script>
+                                copyrightYear();
+                            </script>
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Right column with icons and other information -->
+
+                <div class="footer-links">
+                    <div class="mb-2">
+                        <a href="/sitemap"><span class="ti ti-sitemap me-2"></span>Sitemap</a>
+                    </div>
+                    <div class="" id="ga-screen-page-views" data-bs-toggle="tooltip" data-bs-placement="top"
+                        data-bs-title="0" data-bs-custom-class="tooltip-footer-ga" data-bs-html="true">
+                        <span class="ti ti-chart-bar me-2"></span>ผู้เข้าชม : <span
+                            id="ga-active-users"></span> คน                    </div>
+                    <div>
+                        <a href="#"
+                            onclick="window.open('https://wave.webaim.org/report#/https://www.oncb.go.th/', '_blank')"
+                            title="Explanation of WCAG 2 Level AA conformance" class="me-2">
+                            <img height="32" width="60" src="/img/icons/w3c/wcag2AA-v.svg"
+                                alt="Level AA conformance, W3C WAI Web Content Accessibility Guidelines 2.2">
+                        </a>
+                        <a href="https://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+                            <img style="border:0;width:60px;" src="/img/icons/w3c/vcss.png"
+                                alt="Valid CSS!">
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer: End -->    <!-- / Footer:End -->
+
+    <!-- Side Tool Buttons -->
+    <div class="side_tool_buttons">
+    <div class="social-media">
+                <a href="https://www.facebook.com/profile.php?id=61570413225873" class="facebook" target="_blank">
+            <img src="/img/icons/social/facebook.svg" alt="Facebook">
+        </a>
+        
+                <a href="https://www.youtube.com/@ONCBThai" class="youtube" target="_blank">
+            <img src="/img/icons/social/youtube.svg" alt="YouTube">
+        </a>
+        
+                <a href="https://www.instagram.com/oncb.th/" class="instagram" target="_blank">
+            <img src="/img/icons/social/instagram.svg" alt="Instagram">
+        </a>
+        
+                <a href="https://www.tiktok.com/@oncb.go.th" class="tiktok" target="_blank">
+            <img src="/img/icons/social/tiktok.svg" alt="TikTok">
+        </a>
+        
+                <a href="https://x.com/ONCB_Thai?lang=th" class="x" target="_blank">
+            <img src="/img/icons/social/x.svg" alt="X">
+        </a>
+        
+        
+                <a href="https://www.threads.com/@oncb.th" class="threads" target="_blank">
+            <img src="/img/icons/social/threads.svg" alt="Threads">
+        </a>
+        
+        <a href="/search" class="search">
+            <img src="/img/icons/social/search.svg" alt="search">
+        </a>
+        <a href="/download" class="download">
+            <img src="/img/icons/social/download.svg" alt="download">
+        </a>
+
+            </div>
+
+    <div class="contact-support">
+        <a href="/qa" class="qa">
+            <img src="/img/icons/qa.png" alt="Q&A">
+        </a>
+        <a href="/faq">
+            <img src="/img/icons/contact-support.svg" alt="FAQ">
+        </a>
+    </div>
+
+    <div class="accessible dropstart dropdown-style-switcher">
+        <button type="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="-10,10">
+            <img src="/img/icons/accessible.svg" alt="accessible">
+        </button>
+        <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#" onclick="return false;" data-theme-font-size="increase"
+                    aria-label="เพิ่มขนาดตัวอักษร">
+                                        <span class="ti ti-alphabet-thai"></span>
+                                        <span class="ti ti-plus ti-mt-super"></span>
+                </a></li>
+            <li><a class="dropdown-item" href="#" onclick="return false;" data-theme-font-size="decrease"
+                    aria-label="ลดขนาดตัวอักษร">
+                                        <span class="ti ti-alphabet-thai"></span>
+                                        <span class="ti ti-minus ti-mt-super"></span>
+                </a></li>
+            <li><a class="dropdown-item" href="#" onclick="return false;" data-theme-font-size="reset">
+                    
+                    <span class="align-middle"><span class="ti ti-reload ti-mt ti-sm me-2"></span>Reset</span>
+                </a></li>
+            <li>
+                <hr class="dropdown-divider">
+            </li>
+            <li>
+                <a class="dropdown-item" href="#" onclick="return false;" data-theme="light">
+                    <span class="align-middle"><span class="ti ti-sun me-3"></span>Light</span>
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="#" onclick="return false;" data-theme="dark">
+                    <span class="align-middle"><span class="ti ti-moon-stars me-3"></span>Dark</span>
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="#" onclick="return false;" data-theme="system">
+                    <span class="align-middle"><span class="ti ti-device-desktop-analytics me-3"></span>System</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="back-to-top-container">
+        <a href="#" class="back-to-top" title="Back to top"><span class="ti ti-arrow-up"></span></a>
+    </div>
+</div>    <!-- / Side Tool Buttons:End -->
+
+    <!-- Core JS -->
+<script src="/vendor/libs/node-waves/node-waves.js?v=0.7.6"></script>
+<script src="/vendor/js/dropdown-hover.js?v=20241129"></script>
+<script src="/vendor/js/mega-dropdown.js?v=20241129"></script>
+
+
+<!-- Main JS -->
+
+<script src="/js/home/theme-main.js?v=20241202_1"></script>
+
+<!-- Page JS -->
+<script src="/js/home/core.js?v=20241203"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#template-customizer').remove();
+    });
+</script>
+
+<!-- Cookie Consent -->
+<script src="/libs/cookie-consent/dist/cookieconsent.js?v=20250123_1"></script>
+<script src="/libs/cookie-consent/init.js?v=20250123_2"></script>
+
+<!-- oEmbed to iframe -->
+<script>
+document.querySelectorAll('figure.media oembed').forEach(function(el) {
+    var url = el.getAttribute('url') || '';
+    var match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&?]+)/);
+    if (!match) return;
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + match[1];
+    iframe.width = '100%';
+    iframe.style.aspectRatio = '16/9';
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('allowfullscreen', '');
+    el.parentNode.replaceChild(iframe, el);
+});
+</script>
+
+<!-- Counter -->
+<script>
+document.querySelectorAll('.js-counter').forEach(function(el) {
+    var target = parseFloat(el.innerText.replace(/,/g, ''));
+    if (isNaN(target)) return;
+    var count = 0;
+    var step = Math.ceil(target / 100);
+    var timer = setInterval(function() {
+        count = Math.min(count + step, target);
+        el.innerText = count.toLocaleString();
+        if (count >= target) clearInterval(timer);
+    }, 20);
+});
+</script>
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger chat-title="สำนักงาน ป.ป.ส. กระทรวงยุติธรรม" agent-id="e1847a08-73a1-46c0-9620-41da4158c6c5"
+    language-code="th" chat-icon="/img/icons/mascot-chatbot.png"></df-messenger>
+
+    
+
+</body>
+
+</html>
